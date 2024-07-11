@@ -1,0 +1,9 @@
+while True:
+    emri = input("sheno username:")
+    if emri != "orgesadibrani":
+     continue
+
+    password = input("shkruaje passwordin:")
+    if password == "jcoders":
+     break 
+print("emri dhe passwordi jan ne rregull")
